@@ -4,7 +4,7 @@
 #
 Name     : hammock
 Version  : 0.2.4
-Release  : 20
+Release  : 21
 URL      : https://files.pythonhosted.org/packages/c0/4c/a0af8e8c868268a3a24b686e2b82ba6803e0c8c8da3ed89d1099b324ef90/hammock-0.2.4.tar.gz
 Source0  : https://files.pythonhosted.org/packages/c0/4c/a0af8e8c868268a3a24b686e2b82ba6803e0c8c8da3ed89d1099b324ef90/hammock-0.2.4.tar.gz
 Summary  : rest like a boss
@@ -54,7 +54,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1603392764
+export SOURCE_DATE_EPOCH=1635738934
 export GCC_IGNORE_WERROR=1
 export CFLAGS="$CFLAGS -fno-lto "
 export FCFLAGS="$FFLAGS -fno-lto "
